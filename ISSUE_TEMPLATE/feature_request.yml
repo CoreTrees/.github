@@ -1,0 +1,42 @@
+name: 💡 Feature request · Usulan fitur
+description: Suggest an idea or improvement · Usulkan ide atau peningkatan
+title: "feat: <short summary of the feature>"
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the idea! Please describe the problem first, then your proposed solution.
+        Terima kasih atas idenya! Jelaskan masalahnya lebih dulu, lalu solusi yang Anda usulkan.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem / motivation · Masalah / motivasi
+      description: What problem does this solve? Who benefits? · Masalah apa yang diselesaikan? Siapa yang diuntungkan?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed solution · Solusi yang diusulkan
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered · Alternatif yang dipertimbangkan
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Rough scope · Perkiraan ukuran
+      options:
+        - Small (a few hours) · Kecil
+        - Medium (a few days) · Sedang
+        - Large (a week+) · Besar
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context · Konteks tambahan
+      description: Mockups, links, references. · Mockup, tautan, referensi.
