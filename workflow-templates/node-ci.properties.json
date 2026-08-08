@@ -1,0 +1,7 @@
+{
+  "name": "CoreTrees · Node / TypeScript CI",
+  "description": "Lint, type-check, test, and build a Node/TypeScript project on Node 20 & 22.",
+  "iconName": "octicon check-circle",
+  "categories": ["Continuous integration", "TypeScript", "JavaScript", "Node"],
+  "filePatterns": ["package\\.json$"]
+}
