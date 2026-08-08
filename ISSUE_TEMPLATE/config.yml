@@ -1,11 +1,9 @@
- # Issue template chooser configuration · Konfigurasi pemilih templat issue
- blank_issues_enabled: false
- contact_links:
-   - name: 💬 Questions & Discussions · Pertanyaan & Diskusi
-   url: https://github.com/orgs/CoreTrees/discussions
-   about: Ask questions or share ideas here instead of opening an issue. · Ajukan pertanyaan atau bagikan ide di sini.
+# Issue template chooser configuration · Konfigurasi pemilih templat issue
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & Discussions · Pertanyaan & Diskusi
+    url: https://github.com/orgs/CoreTrees/discussions
+    about: Ask questions or share ideas here instead of opening an issue. · Ajukan pertanyaan atau bagikan ide di sini.
   - name: 🔒 Report a security vulnerability · Laporkan kerentanan keamanan
-  url: https://github.com/CoreTrees/.github/security/policy
-  about: Please report vulnerabilities privately — do not open a public issue. · Laporkan secara privat, jangan buka issue publik.
-
-          
+    url: https://github.com/CoreTrees/.github/security/policy
+    about: Please report vulnerabilities privately — do not open a public issue. · Laporkan secara privat, jangan buka issue publik.
