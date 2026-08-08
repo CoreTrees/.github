@@ -1,0 +1,7 @@
+{
+  "name": "CoreTrees · Go CI",
+  "description": "Vet, race-test with coverage, and build a Go module.",
+  "iconName": "octicon check-circle",
+  "categories": ["Continuous integration", "Go"],
+  "filePatterns": ["go\\.mod$"]
+}
