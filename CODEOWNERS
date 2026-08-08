@@ -1,0 +1,11 @@
+# CODEOWNERS — automatic review requests for this (.github) repository.
+# CODEOWNERS — permintaan review otomatis untuk repositori (.github) ini.
+#
+# NOTE · CATATAN: CODEOWNERS only applies to the repository it lives in.
+# Add a matching CODEOWNERS file to each code repository and adjust the
+# paths/owners there as needed.
+# CODEOWNERS hanya berlaku pada repo tempatnya berada. Tambahkan berkas
+# CODEOWNERS serupa di setiap repo kode dan sesuaikan path/pemilik-nya.
+
+# Default owner for everything in this repo · Pemilik default untuk repo ini
+*       @Halfirzzha
