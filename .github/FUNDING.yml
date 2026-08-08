@@ -1,0 +1,9 @@
+# Funding options shown on the "Sponsor" button across CoreTrees repos.
+# Opsi pendanaan yang tampil pada tombol "Sponsor" di repo CoreTrees.
+# Enable the ones that apply; leave the rest commented out.
+# Aktifkan yang relevan; biarkan sisanya dikomentari.
+
+github: [Halfirzzha]        # GitHub Sponsors username
+# ko_fi:                    # Ko-fi username
+# buy_me_a_coffee:          # Buy Me a Coffee username
+# custom: ["https://your-domain.dev/support"]
